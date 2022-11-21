@@ -8,6 +8,11 @@ Här använder jag mig av radbrytning!
 **Hade varit roligt att komma på bättre text att skriva**
 
 _kursiv stil är fint att skriva med_
+*bättre att använda sig av stjärnan*
 
 då kör vi line break på riktigt  
 innan blev det bara vanligt block typ
+
+>detta ska bli ett block quote
+>
+>blir det snyggt tro?
