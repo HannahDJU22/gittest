@@ -6,3 +6,6 @@ Hej hej, detta är roligt!
 Här använder jag mig av radbrytning!
 
 **Hade varit roligt att komma på bättre text att skriva**
+
+_kursiv stil är fint att skriva med_
+
