@@ -22,5 +22,5 @@ innan blev det bara vanligt block typ
 - jag hoppas det
 
 Nu ska jag länka till iths:
-[ITHS] [www.iths.se]
+[ITHS](https://iths.se)
 
