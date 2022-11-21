@@ -9,3 +9,5 @@ Här använder jag mig av radbrytning!
 
 _kursiv stil är fint att skriva med_
 
+då kör vi line break på riktigt  
+innan blev det bara vanligt block typ
