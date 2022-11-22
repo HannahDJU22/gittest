@@ -33,3 +33,5 @@ Det är bra att öva mycket så man minns vad man ska göra
 
 Jag *Hannah* tycker detta är **roligt**
 
+![The San Juan Mountains!](/assets/san-juan-mountains)
+
