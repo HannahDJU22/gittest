@@ -28,3 +28,8 @@ Nu ska jag länka till iths:
 # Idag tisdag ska jag öva lite till  
 Det är bra att öva mycket så man minns vad man ska göra
 
+## Inför Labb1 är det bra att öva extra
+### Hoppas det ska gå bra
+
+Jag *Hannah* tycker detta är **roligt**
+
