@@ -24,3 +24,7 @@ innan blev det bara vanligt block typ
 Nu ska jag länka till iths:
 [ITHS](https://iths.se)
 
+
+#Idag tisdag ska jag öva lite till
+Det är bra att öva mycket så man minns vad man ska göra
+
