@@ -11,6 +11,12 @@ Min text om detta projekt som heter **Labb 1**. Det ska bli *kul* att visa er.
 >
 > vad tror ni?
 
+- min lista
+- min lista igen
+
+1. andra listan
+2. andra listan igen
+
 
 
 
