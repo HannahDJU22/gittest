@@ -7,6 +7,10 @@ och här kommer nästa rad
 
 Min text om detta projekt som heter **Labb 1**. Det ska bli *kul* att visa er.
 
+> en fin block quote tror jag det ska bli
+>
+> vad tror ni?
+
 
 
 
